@@ -7,8 +7,8 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: nerinyan-download-apiv1
-  REPOSITORY_OWNER: nerinyan
+  IMAGE_NAME: apt-mirror
+  REPOSITORY_OWNER: thftgr
   PLATFORMS: linux/amd64 #,linux/arm64
 
 jobs:
